@@ -1,0 +1,21 @@
+@import url('https://fonts.cdnfonts.com/css/google-sans');
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Product Sans', sans-serif;
+}
+body{
+    background-color: #5e0ff6;
+    background-image: url('../img/bg.png');
+}
+#header{
+    margin-top: 40px;
+}
+#header h2{
+    color: #fff;
+    text-align: center;
+}
+#header p{
+    text-align: center;
+    color: #fff;
+}
