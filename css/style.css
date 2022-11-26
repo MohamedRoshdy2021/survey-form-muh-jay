@@ -19,3 +19,42 @@ body{
     text-align: center;
     color: #fff;
 }
+#content label{
+    color: #fff;
+}
+#content input{
+    background-color: #6e26f4;
+    border: none;
+    padding: 15px;
+    color: #fff;
+    box-shadow: none;
+    margin-bottom: 15px;
+}
+#content textarea{
+    background-color: #6e26f4;
+    border: none;
+    padding: 15px;
+    color: #fff;
+    box-shadow: none;
+    margin-bottom: 15px;
+}
+input::placeholder {
+    color: #eee !important;
+    opacity: 1;
+}
+input:-ms-input-placeholder {
+    color: #eee !important;
+    opacity: 1;
+}
+  
+input::-ms-input-placeholder {
+    color: #eee !important;
+    opacity: 1;
+}
+button{
+    background-color: #A7F60F !important;
+    border: none !important;
+    color: #000 !important;
+    margin-bottom: 100px;
+    margin-top: 30px;
+}
